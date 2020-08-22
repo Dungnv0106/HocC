@@ -2,6 +2,7 @@
 
   int main (){
   	int a, b;
+  	printf("Test git");
   	scanf ("%d%d", &a, &b);
   	int c = a;
   	    a = b;
